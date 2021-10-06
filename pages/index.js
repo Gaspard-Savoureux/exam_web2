@@ -6,6 +6,9 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <label>
+          Samuel Lajoie
+      </label>
+      <label>
           Name
       </label>
       <input></input>
